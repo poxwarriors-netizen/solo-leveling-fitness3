@@ -1,0 +1,21 @@
+# Dependencies
+node_modules/
+env/
+vendor/
+
+# Secrets
+setup_admin.php
+push_to_github.php
+check_repo.php
+.env
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# PHP errors
+*.log
